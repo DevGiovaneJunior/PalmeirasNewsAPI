@@ -1,0 +1,12 @@
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\bin\Debug\net5.0\PalmeirasNews.Domain.deps.json
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\bin\Debug\net5.0\PalmeirasNews.Domain.dll
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\bin\Debug\net5.0\PalmeirasNews.Domain.pdb
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\PalmeirasNews.Domain.csproj.AssemblyReference.cache
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\PalmeirasNews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\PalmeirasNews.Domain.AssemblyInfoInputs.cache
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\PalmeirasNews.Domain.AssemblyInfo.cs
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\PalmeirasNews.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\PalmeirasNews.Domain.dll
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\refint\PalmeirasNews.Domain.dll
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\PalmeirasNews.Domain.pdb
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Domain\obj\Debug\net5.0\ref\PalmeirasNews.Domain.dll

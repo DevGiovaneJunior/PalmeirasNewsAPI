@@ -1,0 +1,15 @@
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\bin\Debug\net5.0\PalmeirasNews.Infrastructure.deps.json
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\bin\Debug\net5.0\PalmeirasNews.Infrastructure.dll
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\bin\Debug\net5.0\PalmeirasNews.Infrastructure.pdb
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\bin\Debug\net5.0\PalmeirasNews.Domain.dll
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\bin\Debug\net5.0\PalmeirasNews.Domain.pdb
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\PalmeirasNews.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\PalmeirasNews.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\PalmeirasNews.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\PalmeirasNews.Infrastructure.AssemblyInfo.cs
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\PalmeirasNews.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\PalmeirasNews.Infrastructure.csproj.CopyComplete
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\PalmeirasNews.Infrastructure.dll
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\refint\PalmeirasNews.Infrastructure.dll
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\PalmeirasNews.Infrastructure.pdb
+C:\Users\ACT\Documents\Projects\Trampos\PalmeirasNews.API\PalmeirasNews.Infrastructure\obj\Debug\net5.0\ref\PalmeirasNews.Infrastructure.dll

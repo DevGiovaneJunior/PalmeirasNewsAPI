@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpPP5TuVxM/pFKyqkVAuGrHd2Mu7HcJsenNb6XlZTCF1gJcCqGhgBWwaeJf+8ajK7ljKChazyqXNYaPRxfZYzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACT\\Documents\\Projects\\Trampos\\PalmeirasNews.API\\PalmeirasNews.Domain\\PalmeirasNews.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACT\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\ACT\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
